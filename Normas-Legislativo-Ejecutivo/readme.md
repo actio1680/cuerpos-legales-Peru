@@ -56,10 +56,10 @@ La característica **Promulgación_B** fue agregada para lograr organizar las fe
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
-|Es la base de datos principal. La fecha de promulgación, PROMULGACIÓN_B,  es el eje de ordenación |![XLSX](https://user-images.githubusercontent.com/54146735/206073555-56ca38e9-4261-49ca-867b-b13bd8ad9fc2.png)|
+|Es la base de datos principal. La fecha de promulgación, PROMULGACIÓN_B,  es el eje de ordenación |![XLSX](/BD-Normas-XIX/ImagenXIX_xlsx.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.xlsx)|
 | **Archivo HTML**||
-|Está elaborado para tener una visualización directa y rápida del contenido. La categoría de PROMULGACIÓN_A de la base de datos XLSX se denomina aquí PROMULGACIÓN, y no contiene la categoría PROMULGACIÓN_B ni ENLACE.|![HTML](https://user-images.githubusercontent.com/54146735/206073437-8af3a156-977b-4f75-a25d-53edff7ce559.png)|
+|Está elaborado para tener una visualización directa y rápida del contenido. La categoría de PROMULGACIÓN_A de la base de datos XLSX se denomina aquí PROMULGACIÓN, y no contiene la categoría PROMULGACIÓN_B ni ENLACE.|![HTML](/BD-Normas-XIX/ImagenXIX_html.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XIX/Normas-LE-XIX.html)|
 
 
