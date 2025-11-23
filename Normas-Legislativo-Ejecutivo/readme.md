@@ -82,10 +82,10 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 |DOCUMENTOS||
 | --- | --- |
 | **Archivo XLSX** ||
-|Es la base de datos principal, será actualizada y completada periódicamente las categorías PROMULGACIÓN; el NÚMERO de la norma será el eje de ordenación.|![XLSX](https://user-images.githubusercontent.com/54146735/206044645-ddfe34d7-fb37-4cb3-9126-b0be5366baeb.png)|
+|Es la base de datos principal, será actualizada y completada periódicamente las categorías PROMULGACIÓN; el NÚMERO de la norma será el eje de ordenación.|![XLSX](BD-Normas-XX-XXI/Imagen-XX-XXI_xlsx.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XX-XXI/Normas-LE-XX-XXI.xlsx)|
 | **Archivo HTML**||
-|Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de PROMULGACIÓN y ENLACE, ni otras actualizaciones de la base de datos XLSX. |![HTML](https://user-images.githubusercontent.com/54146735/206043803-e1a9c51c-cf7c-43bc-b190-9d8561692bf8.png)|
+|Está elaborado para tener una visualización directa y rápida del contenido. El cual no contiene las categorías de PROMULGACIÓN y ENLACE, ni otras actualizaciones de la base de datos XLSX. |![HTML](BD-Normas-XX-XXI/Imagen-XX-XXI_html.png)|
 ||[Descargar HTML](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Normas-Legislativo-Ejecutivo/BD-Normas-XX-XXI/Normas-LE-XX-XXI.html)|
 
 
