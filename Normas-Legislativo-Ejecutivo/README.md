@@ -1,5 +1,7 @@
 ## Base de datos de las normas del Poder Legislativo y Ejecutivo en el Perú 1820-2025
 
+Publicado: Diciembre 2021
+
 Las primeras colecciones, como se denominó a la recopilación y sistematización de leyes y decretos, fueron dadas en el siglo XIX por la necesidad de contar con libros de consulta; pues, a diferencia de nuestra época digital en aquellos días la distribución de la información mediante diarios era más limitada.
     
 Entre las primeras colecciones que buscan sanear estas carencias, por mencionar algunos, son la *Colección de leyes, decretos y ordenes publicadas en el Perú desde su independencia en el año 1821* (1831) editado por Mariano Santos de Quirós y Juan Crisóstomo Nieto; la *Colección de Leyes, Decretos y Ordenes publicadas en el Perú* (1861) de Juan Oviedo; *Boletín oficial de leyes, decretos, resoluciones y oficios del gobierno* (1870) por Simón Camacho; entre otras recopilaciones de la fecha que se formaban por ramo institucional, regional o temático. El 20 de noviembre de 1906 se promulga el Decreto Supremo que instituye el *Anuario de la legislación peruana*, teniendo a partir de la fecha un cuerpo ordenado de normas legislativas. 
@@ -91,7 +93,7 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 
 <br>
 <div align="right">
-<i>San Juan de Miraflores, 10 de diciembre de 2022</i><br>
+<i>San Juan de Miraflores, 23 de noviembre de 2025</i><br>
 (Última actualización)
 </div>
 
