@@ -21,13 +21,13 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 El proceso de independencia de 1821 transformó el Virreinato de la Monarquía Hispánica a una República Democrática, la República del Perú. Esto significó una distinción de las normas emitidas entre el poder legislativo y ejecutivo, antes contenida en la persona del Rey. Las normas legislativas y ejecutivas continuaron con la organización establecida por la administración virreinal, al menos en su gestión administrativa. Así por ejemplo, la legislación desde el inicio de la república hasta 1904 se identifica por la fecha de promulgación. Ya luego de esta fecha, por razones técnicas, se enumeran hasta nuestra época.
 
-En la *Guía de Usuario del Archivo Digital de la Legislación del Perú*[^1] se encuentra la descripción editada y literal sobre las diferentes normas, entre las seleccionadas para este apartado tenemos: Ley, Decreto, Resolución Legislativa, Reglamento, Decreto Ley, Decretos Legislativos. Normas promulgadas por el Poder Legislativo y Ejecutivo con restricciones. 
+En la *Guía de Usuario del Archivo Digital de la Legislación del Perú*[1] se encuentra la descripción editada y literal sobre las diferentes normas, entre las seleccionadas para este apartado tenemos: Ley, Decreto, Resolución Legislativa, Reglamento, Decreto Ley, Decretos Legislativos. Normas promulgadas por el Poder Legislativo y Ejecutivo con restricciones. 
 
 Los tipos de normas cambian de denominación según la autoridad que las emite, el tipo de gobierno y la situación política. Por otro lado, al abordar un periodo de 200 años, es inevitable que la descripción sea fiel a la regulación vigente de cada época, por tal motivo estas descripciones tienen que tomarse con carácter aproximativo e histórico.
 
 Conforme a lo señalado, se definen las siguientes normas según la Guía de Usuario referida:
 
- - **Decreto:** Son normas promulgadas por el Poder Ejecutivo. Tienen como objetivo prescribir el cumplimiento de una ley dirigida a toda la república[^2]. 
+ - **Decreto:** Son normas promulgadas por el Poder Ejecutivo. Tienen como objetivo prescribir el cumplimiento de una ley dirigida a toda la república[2]. 
 
  - **Ley:** Son normas promulgadas por el Poder Legislativo, la primera norma fue emitida en octubre de 1904 con el N.°1. Antes de la delegación de facultades al Poder Ejecutivo, las normas con rango de ley expedidas directamente por el Ejecutivo, se denominaban igualmente Leyes y seguían la numeración de las expedidas por el Poder Legislativo. Actualmente, las normas del Poder Ejecutivo tienen su propia forma y numeración.
 
@@ -36,7 +36,7 @@ Diferenciar de las Resoluciones Legislativas del Congreso de la República, ampa
 
  - **Decreto Ley:** Son  normas que siguen la numeración de las Leyes y Resoluciones Legislativas, pero dictadas por el Poder Ejecutivo asumiendo facultades legislativas en las oportunidades en que se han instaurado gobiernos de facto. Los primeros decretos leyes expedidos con tal denominación fueron dictados por el gobierno resultante del golpe de estado del General Sánchez Cerro en 1931.
 
- - **Reglamento:** Expedido por el Poder Ejecutivo en la misma forma que los decretos; y su objetivo es determinar el modo de proceder el manejo de una oficina, arreglar la dirección y gobierno de una corporación[^2]. 
+ - **Reglamento:** Expedido por el Poder Ejecutivo en la misma forma que los decretos; y su objetivo es determinar el modo de proceder el manejo de una oficina, arreglar la dirección y gobierno de una corporación[2]. 
 
 
 ### 2. BASE DE DATOS DE NORMAS DEL SIGLO XIX
@@ -99,5 +99,6 @@ La característica **Promulgación** fue agregada con la pretensión de establec
 
 ---
 
-[^1]: Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
-[^2]: García-Calderón, F. (1860). Diccionario de la Legislación Peruana. Tomo I A-D. Imprenta del Estado. [Enlace](http://bdh-rd.bne.es/viewer.vm?id=0000134395&page=1)
+[1]: Congreso del Perú. (s.f.). *Archivo Digital de la Legislación del Perú. Guía de Usuario*. [Enlace](https://www.leyes.congreso.gob.pe/documentos/Guia-Usuario.pdf)
+
+[2]: García-Calderón, F. (1860). Diccionario de la Legislación Peruana. Tomo I A-D. Imprenta del Estado. [Enlace](http://bdh-rd.bne.es/viewer.vm?id=0000134395&page=1)
