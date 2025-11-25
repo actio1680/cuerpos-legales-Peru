@@ -50,7 +50,7 @@ Respecto al contenido, se pinto de un color especifico y colocó un símbolo seg
 
 |DOCUMENTO||
 | --- | --- |
-|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](https://user-images.githubusercontent.com/54146735/212601491-cc32e2e9-6c30-4a8e-9933-9e39824e60d7.png)|
+|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](sentencia-XX-XXI_xlsx.png)|
 ||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)|
 
 
