@@ -14,12 +14,15 @@ Es así que, el presente proyecto busca sistematizar y referenciar en una base d
 
 [> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)
 
+
+/////////////////////////
+
 ### CONTENIDO
 **1. Base de datos de las sentencias de la Corte Suprema de Justicia**
 
 **2. Documento XLSX**
 
----
+/////////////////////////
 
 ### 1. BASE DE DATOS DE LAS SENTENCIAS DE LA CORTE SUPREMA DE JUSTICA
 La obra principal para la confección de la base de datos fueron los primeros 64 tomos de los Anales judiciales de la Corte Suprema de Justicia, que comprenden los años judiciales de 1870 a 1972. Los tomos contienen sentencias escogidas por operadores de justicia y profesionales especializados en la materia; es decir, no todas las sentencias fueron publicadas en los, sino las más trascendentes.
