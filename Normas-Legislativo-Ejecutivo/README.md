@@ -10,6 +10,9 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 [> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Normas-Legislativo-Ejecutivo)
 
+
+/////////////////////////
+
 ### CONTENIDO
 **1. Descripción de las normas del legislativo y ejecutivo**
 
@@ -17,7 +20,8 @@ En la actualidad, gracias a la tecnología la distribución y lectura de las nor
 
 **3. Base de datos de normas del siglo XX y XXI**
 
----
+
+/////////////////////////
 
 ### 1. DESCRIPCIÓN DE LAS NORMAS DEL LEGISLATIVO Y EJECUTIVO
 
