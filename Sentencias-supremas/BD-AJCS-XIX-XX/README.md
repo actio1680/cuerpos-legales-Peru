@@ -12,7 +12,7 @@ Un hecho es seguro, esta primera obra sería el antecedente de las recopilacione
 
 Es así que, el presente proyecto busca sistematizar y referenciar en una base de datos los títulos de las sentencias publicadas por la Corte Suprema de Justicia del Perú, durante 1870 y 1972. En este primer lanzamiento, la base de datos tuvo como fuente los Anales judiciales de la Corte Suprema de Justicia, que en 64 tomos aborda un poco más de 100 años de sentencias supremas. Esta herramienta pretende ser útil para los juristas e investigadores en lo que respecta a la Historia del Derecho peruano. 
 
-[> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)
+[> Repositorio del proyecto](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XIX-XX)
 
 
 /////////////////////////
@@ -53,8 +53,8 @@ Respecto al contenido, se pinto de un color especifico y colocó un símbolo seg
 
 |DOCUMENTO||
 | --- | --- |
-|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](sentencia-XX-XXI_xlsx.png)|
-||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XX-XXI)|
+|Base de datos de las sentencias de la Corte Suprema de Justicia del Perú 1870-1972|![XLSX](sentencia-XIX-XX_xlsx.png)|
+||[Descargar XLSX](https://github.com/actio1680/Cuerpos-legales-Peru/tree/main/Sentencias-supremas/BD-AJCS-XIX-XX)|
 
 
 No todo el contenido esta volcado en el archivo, puesto que, aún se estan extrayendo los datos. Los datos secundarios, así que no afectan a la base de datos en general, sino que la complementan. Las categorías ejes fundamentales son el **Título general** y el **Título especifíco** porque según los modos de organizar las sentencias en cada período histórico ha sido distinta; así por ejemplo, mientras en la actualidad prima el código, antaño era o bien la sumilla o la materia. El archivo actualizado que tienenes de formato XLSX.
